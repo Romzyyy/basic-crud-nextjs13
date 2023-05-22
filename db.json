@@ -1,29 +1,24 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "title": "Product 1 updated",
-            "price": 923
-        },
-        {
-            "id": 2,
-            "title": "Product 2",
-            "price": 435
-        },
-        {
-            "id": 3,
-            "title": "Product 3",
-            "price": 685
-        },
-        {
-            "id": 4,
-            "title": "Product 4",
-            "price": 544
-        },
-        {
-            "id": 5,
-            "title": "Product 5",
-            "price": 675
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1 updated",
+      "price": 923
+    },
+    {
+      "id": 2,
+      "title": "Product 2 updated",
+      "price": 345
+    },
+    {
+      "id": 3,
+      "title": "Product 3 updated",
+      "price": 567
+    },
+    {
+      "title": "product new",
+      "price": "123",
+      "id": 4
+    }
+  ]
 }
